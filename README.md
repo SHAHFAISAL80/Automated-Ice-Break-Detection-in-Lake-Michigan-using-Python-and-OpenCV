@@ -1,0 +1,1 @@
+# Automated-Ice-Break-Detection-in-Lake-Michigan-using-Python-and-OpenCV
